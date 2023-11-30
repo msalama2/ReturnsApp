@@ -25,4 +25,11 @@ The ReturnsApp simplifies the return management process for businesses, providin
 user-friendly and secure platform for cataloging returned inventory.
 
 
-//To properly download and run the ReturnsApp follow the video tutorial uploaded within in this respitory in a file called...//
+//To properly download and run the ReturnsApp
+
+First, Download the Source Code files(.java) to your computer
+Second, once the files are dowloaded make sure to know the absolute path to where they are stored
+Third, open your macOS terminal and type the following:( %javac path/name/to/where/Source/Code/is/Stored/m*.java )to compile the code
+Lastly, type the following:( %java ReturnsApp.SignIn ) to run the ReturnsApplication
+
+                                                                                    //
